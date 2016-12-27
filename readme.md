@@ -2,6 +2,8 @@
 # For UBUNTU users
 ###################
 
+[![Join the chat at https://gitter.im/SpartaTeamDev/la5ng](https://badges.gitter.im/SpartaTeamDev/la5ng.svg)](https://gitter.im/SpartaTeamDev/la5ng?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Edit the hosts file: vi /etc/hosts
 127.0.0.1   la5ng.local
 
